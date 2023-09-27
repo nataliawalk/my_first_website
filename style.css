@@ -1,0 +1,29 @@
+body
+{
+	background-color: rgb(107, 107, 107);
+	font-size: 20px;
+	color: white;
+	font-size: 20px;
+}
+
+h1
+{
+	font-size: 48px;
+	color: rgb(90, 211, 224);
+}
+
+a:link
+{
+	color: black;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: black;
+}
+
+a:hover
+{
+	color: rgb(136, 136, 136);
+}
